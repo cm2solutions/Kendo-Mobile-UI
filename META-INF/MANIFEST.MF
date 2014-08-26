@@ -1,0 +1,1679 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/content/web/Employees/1.jpg
+SHA1-Digest: IwIDXkygi667A1N3WCFQHrmXKkY=
+
+Name: assets/www/content/shared/icons/16/star.png
+SHA1-Digest: +11U7QduL470hnVfEvhT5xwP/Pw=
+
+Name: assets/www/content/web/foods/37.jpg
+SHA1-Digest: xYf+xFu8zc7BDumuw/aOOU/tcrI=
+
+Name: assets/www/content/web/foods/12.jpg
+SHA1-Digest: XP8AzxeVK7TIrS6HOE07Taz+fjY=
+
+Name: assets/www/content/web/foods/36.jpg
+SHA1-Digest: 2U6ZPzaIyi/9maArWyIHjyLSLBk=
+
+Name: assets/www/content/shared/styles/wpSkin.png
+SHA1-Digest: 2m1HeA273Y+6amNLzeoNf+ihx+s=
+
+Name: assets/www/styles/Default/sprite_2x.png
+SHA1-Digest: 8vlQn58CCXAoT4jHeC+umXT453A=
+
+Name: assets/www/content/shared/images/photos/12.jpg
+SHA1-Digest: y1/tEzE00K5SZS9jMPoMl9Kw2CQ=
+
+Name: assets/www/content/web/foods/9.jpg
+SHA1-Digest: wPK2Ggz4fjWNo2OayXX8CrWG9Kc=
+
+Name: res/drawable/splash.png
+SHA1-Digest: gx4EuM+qWBADRQIA1+LYWri5QXE=
+
+Name: assets/www/content/spa/websushi/images/200/chicken-teriyaki.jpg
+SHA1-Digest: 0rhFFqDyCPz/l6p4e90jNU3ZNyo=
+
+Name: assets/www/listview/templates.html
+SHA1-Digest: cs0lyr6tiGMM7zSYqhyq3T1SdGA=
+
+Name: assets/www/styles/textures/leather1.png
+SHA1-Digest: fJqXsO9e3bFmA+LV8u6aYkaV3C0=
+
+Name: assets/www/content/web/foods/16.jpg
+SHA1-Digest: SVByXQ1MtRNSv2va1DecWVhGFvY=
+
+Name: assets/www/buttongroup/events.html
+SHA1-Digest: Op7BgpWSBFD6nV5VdpvaSQoOX/w=
+
+Name: assets/www/content/shared/styles/telerik-navigation.css
+SHA1-Digest: oNid2wjuNHCSQ8dEfU6tuHybcgI=
+
+Name: assets/www/content/spa/websushi/css/images/close-icon.png
+SHA1-Digest: Ii+FpYPngwbfUSeTVDWNEozqfk4=
+
+Name: assets/www/content/shared/styles/demos-web.png
+SHA1-Digest: 4V+3+ruckcuYoHf/Y03XLJKttvk=
+
+Name: assets/www/application/loadingpopup.html
+SHA1-Digest: QcoGnVEvTup8h2Zu7ZzdxV37NtI=
+
+Name: assets/www/content/shared/styles/nexus.png
+SHA1-Digest: n1PDKuiYPMqL+qm1zm0o9ITQPmY=
+
+Name: assets/www/content/web/foods/27.jpg
+SHA1-Digest: utUhQVMXbsf0TefE91y6IrgO8kQ=
+
+Name: assets/www/content/mobile/cities/220/bonn.jpg
+SHA1-Digest: sCvtp3Lbl88VH57C3UytJsxkeFQ=
+
+Name: assets/www/content/shared/images/photos/8.jpg
+SHA1-Digest: uFw1dgFwxWWtnkHzGR4G1gWlNpI=
+
+Name: assets/www/content/spa/websushi/images/75/hosomaki-mix.jpg
+SHA1-Digest: Z5WEvp5IACh1lJKxbEcOMhDl2iY=
+
+Name: assets/www/forms/checkboxes.html
+SHA1-Digest: d3CPrcDxGH4/JkgB3JG8f7L7uyk=
+
+Name: assets/www/content/mobile/overview/liverpool.jpg
+SHA1-Digest: aQfLnF0HHwMnRLnASyRwgAifmUI=
+
+Name: assets/www/content/web/foods/200/59.jpg
+SHA1-Digest: 7LJ2P2WaQ+K9q35Kk7NgimAbv/E=
+
+Name: assets/www/content/spa/websushi/js/sushi.js
+SHA1-Digest: WOmxhW4OBAuz/z8Xym8iKqA5jpk=
+
+Name: assets/www/styles/textures/glass.png
+SHA1-Digest: Y2TXNs9H34ozpBRoey3qgmaHH4Y=
+
+Name: assets/www/view/index.html
+SHA1-Digest: +IL/DL+ldKFv9QhUJt1kP6HO+y0=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/cairo.jpg
+SHA1-Digest: 3ny51WtrB8Bgw2GpP6QXH59nFYU=
+
+Name: assets/www/content/shared/icons/16/speaker.png
+SHA1-Digest: gPE8xXPFxSxoJT7tVJYEf39Athw=
+
+Name: assets/www/content/mobile/cities/220/melbourne.jpg
+SHA1-Digest: o0a6RxUI5j9ULygyyr5MVTkyMw8=
+
+Name: assets/www/content/spa/websushi/images/200/california-rolls.jpg
+SHA1-Digest: Jm0SbW9zUXhuOzHsGTOXvXl5vmk=
+
+Name: assets/www/content/spa/websushi/images/75/salmon-teriyaki.jpg
+SHA1-Digest: qP96l9j0nCLAFEcj4rTeG95iHbA=
+
+Name: assets/www/content/web/foods/47.jpg
+SHA1-Digest: QWw9ww873hxqTgAq60CArugEIHM=
+
+Name: assets/www/content/shared/styles/tag-beta.png
+SHA1-Digest: rAfI1oNuVjUB3Ibi9zO9dPSMDmI=
+
+Name: assets/www/listview/press-to-load-more.html
+SHA1-Digest: p5DkT5+heD0PWho8XSM5B+kZPXw=
+
+Name: assets/www/content/web/foods/23.jpg
+SHA1-Digest: /h/e2ICqmoO4/Tchw0oVbTKzkPQ=
+
+Name: assets/www/content/web/foods/35.jpg
+SHA1-Digest: aHGN/JNGz9FubAbDaPCI+cLCK4Q=
+
+Name: assets/www/content/shared/styles/fonts/DroidSansWeb.woff
+SHA1-Digest: Ey6lspZVfBtxSnsx6AV2JjHcwAw=
+
+Name: assets/www/content/spa/websushi/css/images/smallImage.jpg
+SHA1-Digest: LNZjK14Y2tR52012QXmzDDTG1y8=
+
+Name: assets/www/content/shared/styles/tag-new@2x.png
+SHA1-Digest: 81kzVbY83nRylAQ+3i5a23JM3N4=
+
+Name: assets/www/content/mobilethemebuilder/images/Icon2x.png
+SHA1-Digest: W3OzHCayJBb9IEa5uo4uxG46K7o=
+
+Name: assets/www/content/spa/websushi/images/75/chicken-teriyaki.jpg
+SHA1-Digest: kZpIKeIvxKOMawTUjA3L6ZC611k=
+
+Name: assets/www/content/web/foods/10.jpg
+SHA1-Digest: AUbyzM7p0WBo7NvfFSjEkMdYrN0=
+
+Name: assets/www/content/shared/styles/blackberrySkin.png
+SHA1-Digest: bPpSz4CezvlcgafHuW7cBAZpiQM=
+
+Name: assets/www/content/mobilethemebuilder/scripts/contextmenu.js
+SHA1-Digest: qdUfrTiENMojKOO4sEN6djy2k/4=
+
+Name: assets/www/content/mobilethemebuilder/images/felipe.jpg
+SHA1-Digest: 2pqW+jcZSJ7ST5JbUeBIxOIaSt4=
+
+Name: assets/www/content/web/foods/200/72.jpg
+SHA1-Digest: b+ZYkZO3PcHUjc2WSpCLRWWKIeE=
+
+Name: assets/www/forms/appearance.html
+SHA1-Digest: j9YtbHSh2Qzw7ER773TIxcg3acs=
+
+Name: assets/www/content/web/foods/31.jpg
+SHA1-Digest: bqruHaWwwNZ6CN1JfbA5DvnsYns=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/sydney.jpg
+SHA1-Digest: pCQifCYCSNkT8GCVAE6trZXhS+c=
+
+Name: assets/www/content/mobile/cities/220/san-francisco.jpg
+SHA1-Digest: 3A/7c/XDyIYaQQuJPVbikEk/y7M=
+
+Name: assets/www/content/mobile/listview/tekka-maki.jpg
+SHA1-Digest: k1GO24rhvv/0yZe8O4hN/R9fxoc=
+
+Name: assets/www/buttongroup/mvvm.html
+SHA1-Digest: 9V1mvxDu0rTZezM4534aBu2IjwI=
+
+Name: assets/www/content/mobile/shared/sales.jpg
+SHA1-Digest: 4TEO4tsxgeJ9Hg5jO11g7i5E9/0=
+
+Name: assets/www/listview/index.html
+SHA1-Digest: PujFJ0hoIbMvntAxuRPAslCv7Y8=
+
+Name: assets/www/scrollview/custom-template.html
+SHA1-Digest: eX4w9x9eIpL4dcFzte8OAGCw9Oo=
+
+Name: assets/www/content/web/foods/33.jpg
+SHA1-Digest: Im+0PGNmuC/MxiWXx7A7cQaW8ZA=
+
+Name: assets/www/content/web/Employees/7.jpg
+SHA1-Digest: PXoopW4yEiMxgvwkdyGyGOFmKjg=
+
+Name: assets/www/content/web/foods/18.jpg
+SHA1-Digest: X28WaYOoAv81QEzmoElt8d8Eg10=
+
+Name: assets/www/content/shared/images/photos/220/11.jpg
+SHA1-Digest: oaMRHF1+J/HO8hpWvNVqDv+J7Xg=
+
+Name: assets/www/content/web/foods/14.jpg
+SHA1-Digest: bxOuDuCTpal8nL+d69MZwnMQcuA=
+
+Name: assets/www/content/web/foods/62.jpg
+SHA1-Digest: QamruNf7px7m8PvrBmm0LvjgOSU=
+
+Name: assets/www/content/spa/websushi/images/200/maguro.jpg
+SHA1-Digest: fTitZ2sAmwsGC1rZs5iGJtGf3xw=
+
+Name: assets/www/content/shared/styles/sprite.misc.png
+SHA1-Digest: HyfIH2c1fBxXyyGunaL+yvj/lBw=
+
+Name: assets/www/content/web/foods/44.jpg
+SHA1-Digest: yp7ltM7iyNSp/CHrIN990wrzl3A=
+
+Name: assets/www/content/web/foods/200/12.jpg
+SHA1-Digest: ZlYf246iDkxBEKeGCBaWX4r7pFI=
+
+Name: assets/www/content/shared/images/people/1.jpg
+SHA1-Digest: WNM2InEREkFnzMwxv7gFwfu7T08=
+
+Name: assets/www/content/mobile/overview/boston.jpg
+SHA1-Digest: flzyQfl+sseduVAlR/Il8DW3Hi8=
+
+Name: assets/www/content/mobile/cities/220/liverpool.jpg
+SHA1-Digest: dDLCsaZ53qfG/3qQw/pMNKnUfww=
+
+Name: assets/www/content/shared/styles/fonts/FaktSlabPro-Medium.ttf
+SHA1-Digest: Z4+lsbO8AaQtq7tdRoqKjSHk5eE=
+
+Name: assets/www/content/shared/styles/w8.png
+SHA1-Digest: cvq6U3a5F8wJcYPU85IhQ/hTAMw=
+
+Name: assets/www/content/spa/websushi/images/200/edamame.jpg
+SHA1-Digest: MZYsL6yfoIEbinpSVgNlUpyyBOU=
+
+Name: assets/www/styles/textures/stripe4.png
+SHA1-Digest: FTCMRT13EISb34XPpsN6+VCDuR4=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/london.jpg
+SHA1-Digest: rXHfPPAPhjfP4uHBNlGuAAmod0w=
+
+Name: assets/www/content/web/Employees/5.jpg
+SHA1-Digest: sV5B2ONSKVXoooJt7XteIPDt2AE=
+
+Name: assets/www/content/web/foods/4.jpg
+SHA1-Digest: RXrLXPk9moak+n2Xq3w8HZqGIts=
+
+Name: assets/www/forms/index.html
+SHA1-Digest: 9AujGQRc5TK9NBRIexS6lJxdkfA=
+
+Name: assets/www/content/mobile/shared/napoletano.jpg
+SHA1-Digest: zWolpf7UfWvhkq/b4BbAVx0AOro=
+
+Name: assets/www/content/shared/styles/fonts/MetricWeb-Semibold.woff
+SHA1-Digest: 8jq6UshtsTaABQr4xkRj73BZAZU=
+
+Name: assets/www/content/shared/js/people.js
+SHA1-Digest: bebOT9RFT2oe8/xrWrcYWKoSim8=
+
+Name: assets/www/content/shared/images/bootstrap.png
+SHA1-Digest: lb833yNIRqz0n2wRP6A5fahc2Cc=
+
+Name: assets/www/adaptive/scheduler.html
+SHA1-Digest: xYVC+zQuo+0O1kI1JUGBYKx2xxI=
+
+Name: assets/www/content/web/foods/22.jpg
+SHA1-Digest: yG/YhT03mbcWVWUtEFRpXFPldPM=
+
+Name: assets/www/overview/index.html
+SHA1-Digest: GQxCs+T9y2yC5z//3HYbPhScaXs=
+
+Name: assets/www/content/web/foods/20.jpg
+SHA1-Digest: KfhnQWEoP0t5188iZLG8LiKBBNc=
+
+Name: assets/www/content/spa/websushi/css/images/close-image.png
+SHA1-Digest: Hziq+9o7H1hkS+VC1b8EjwvQWrE=
+
+Name: assets/www/content/spa/websushi/css/style.css
+SHA1-Digest: hvoKgWMPjId8ISSm5ANCckoRkW4=
+
+Name: assets/www/content/mobile/shared/sports-home.jpg
+SHA1-Digest: dmpVkhW+qhGLT9qzo/7GxIay9VY=
+
+Name: assets/www/styles/textures/hsv-gradient.png
+SHA1-Digest: ah07xTQpvbA6c35hOrjuf1IeRik=
+
+Name: assets/www/content/shared/styles/telerik-navigation-sprite.png
+SHA1-Digest: k4jXUsYVDyH3rt0fnoV6z+O1fHE=
+
+Name: assets/www/content/shared/images/photos/6.jpg
+SHA1-Digest: qwUYrL9gdpMkl4viGhO0rqg6iWQ=
+
+Name: assets/www/content/shared/js/examples.js
+SHA1-Digest: hM88Pzoq9BaHdRWlStZM8nVaJaU=
+
+Name: assets/www/navbar/index.html.bak
+SHA1-Digest: KijM3XYHwyneQoit2Y323Wgp9ds=
+
+Name: assets/www/tabstrip/appearance.html
+SHA1-Digest: +vDwZ2RqQRATpEbM/B8h5ueg5RI=
+
+Name: assets/www/js/jquery.min.map
+SHA1-Digest: T9p+QNAI9GjZ0smyCduGTrDIJn8=
+
+Name: assets/www/content/spa/websushi/images/75/shake.jpg
+SHA1-Digest: TeqN8QBLUtEtD6vhNCrycHCJns0=
+
+Name: assets/www/content/web/Employees/2.jpg
+SHA1-Digest: ep958eCg7CNV1BzHd6mkz32AbwM=
+
+Name: assets/www/styles/textures/stripe1.png
+SHA1-Digest: nNFGX11BP8xWMzZvYcLcsrrB49U=
+
+Name: assets/www/content/shared/styles/demos-mobile.png
+SHA1-Digest: LSKWAV/c0J9DtscOOTv8uWvdYvI=
+
+Name: assets/www/content/mobile/overview/nairobi.jpg
+SHA1-Digest: h2jcd8tcUOZiUXK/4sxPQg/g8qo=
+
+Name: assets/www/content/spa/websushi/images/200/salmon-teriyaki.jpg
+SHA1-Digest: t9nS8JQO9xARO2KSwplVBZzxkkY=
+
+Name: assets/www/content/shared/js/b020132b.tlrk-bar.js
+SHA1-Digest: MlY3XnUWwC74+de1r/oX4qt96DY=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-Regular-Web.woff
+SHA1-Digest: 584cfrwwuKAoW3bgMgOXZv7xAZ0=
+
+Name: assets/www/content/shared/styles/examples-offline.css
+SHA1-Digest: Vhh4uJaZh3B7n5vmCAJ8+La9ylE=
+
+Name: assets/www/content/spa/aeroviewr/images/texture.png
+SHA1-Digest: Ueaz9vh53P6nRzAxjGX2FU88aOI=
+
+Name: assets/www/content/spa/websushi/images/75/ebi-rolls.jpg
+SHA1-Digest: 4symiDWUJvvd41wXCMVCEHCkc78=
+
+Name: assets/www/content/shared/images/themebuilder-mobile-logo.png
+SHA1-Digest: 8TjhYroqcxMfASEKx08ykX4BLSY=
+
+Name: assets/www/content/shared/images/patterns/pattern5.png
+SHA1-Digest: Vl5ezY4RZTUpLL7RBoIh/qR92Io=
+
+Name: assets/www/listview/filtering.html
+SHA1-Digest: 0mC1fHIXwcyQJbu/LoNTUOAuiS8=
+
+Name: assets/www/content/spa/websushi/images/75/chirashi-sushi.jpg
+SHA1-Digest: VfouomakpOiwTh7JOrgIAIlJjbI=
+
+Name: assets/www/scrollview/index.html
+SHA1-Digest: sHPECsXytDcI7p9ajorzywR55XM=
+
+Name: assets/www/content/shared/styles/themebuilder-mobile.png
+SHA1-Digest: K+vmbTrRBVwgTChJraA6+qy+t8s=
+
+Name: assets/www/content/shared/styles/flowerWrap.png
+SHA1-Digest: pLgUiEo5hnnsNr+SdOZbzs+GMDg=
+
+Name: assets/www/content/spa/websushi/css/images/remove-icon.png
+SHA1-Digest: Qm+NTD2Z+9B6b0u163bI9edtGos=
+
+Name: assets/www/content/web/foods/68.jpg
+SHA1-Digest: zu1DYQ4bDLKOGU2lDAk8Qfk0EyA=
+
+Name: assets/www/content/spa/websushi/css/images/checkout-image.png
+SHA1-Digest: k/vdtv8sqSeTAVAq05e9VmwRsxM=
+
+Name: assets/www/content/shared/images/photos/220/8.jpg
+SHA1-Digest: zCfREv1csTSqLBLHpbEQvKilpH0=
+
+Name: assets/www/content/spa/websushi/images/75/seattle-rolls.jpg
+SHA1-Digest: Vo5+6coXsj3fVIaGaa2zptLcZeE=
+
+Name: assets/www/content/spa/websushi/images/200/tekka-maki.jpg
+SHA1-Digest: adn5XWO5mjMos9Lw3ExjZ7ib/vA=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-Regular-Web.eot
+SHA1-Digest: 5tPYyFNy0OYOnA1ovXV7N2Ue82U=
+
+Name: assets/www/content/shared/styles/fonts/MetricWeb-Semibold.eot
+SHA1-Digest: lN6u96hwhbwzzIHO4Ll0XmCWugs=
+
+Name: assets/www/content/shared/styles/flowers.png
+SHA1-Digest: 5nqFOWUUMXizuvZ4xGCJhuy+A4M=
+
+Name: assets/www/content/mobilethemebuilder/images/annette.jpg
+SHA1-Digest: CFsqPI0OP6XpKA23Yu226GxSBIM=
+
+Name: assets/www/content/shared/js/telerik-navigation.js
+SHA1-Digest: 2gQ/Fx0ff72fbl0xRKON23iTFC0=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: C8RwFxbgCrmcSvMCVRr/fCy5IpU=
+
+Name: assets/www/content/mobile/overview/bombay.jpg
+SHA1-Digest: 2OP47vrXuyPPhfUegs6hFKPHMgI=
+
+Name: assets/www/content/web/foods/3.jpg
+SHA1-Digest: jwgI9q/0T8A35jyjOCXTd0xSzCw=
+
+Name: assets/www/styles/textures/leather2.png
+SHA1-Digest: k4xBte9a+iMrdcNP2bh7FNHdtZY=
+
+Name: assets/www/content/shared/styles/icon-telerik-badge.png
+SHA1-Digest: nLbCHwTMeJsLpSeECWwlHi6k6j4=
+
+Name: assets/www/content/shared/styles/kendoui.woff
+SHA1-Digest: yVdnBkcT1Jjy9OB6uS26QwfnvAw=
+
+Name: assets/www/content/shared/icons/sports/baseball.png
+SHA1-Digest: 3dhiSzXoSa2FkVOY1iiv9YwQeFY=
+
+Name: assets/www/content/shared/styles/fonts/DroidSansWeb.eot
+SHA1-Digest: HHb7IWiYQnv7CZd5i/TLjMDMIjE=
+
+Name: assets/www/styles/textures/noise.png
+SHA1-Digest: aEUnux8g251+U67hlEo38aPN3QU=
+
+Name: assets/www/content/shared/images/themebuilder-web-logo.png
+SHA1-Digest: N5f++orRXOpCyDgLxFRnV+bazoo=
+
+Name: assets/www/content/mobile/cities/220/cape-town.jpg
+SHA1-Digest: RnKCrAFKxpDMkQAzM7C5m+lc+us=
+
+Name: assets/www/content/shared/styles/a100.png
+SHA1-Digest: tW+q2f+bSRyzE81WX8p07s5SY0w=
+
+Name: assets/www/content/mobile/shared/mymusic.jpg
+SHA1-Digest: K5j44hc+CEFhhWAImUXOj7adoqQ=
+
+Name: assets/www/tabstrip/index.html
+SHA1-Digest: GnogiGN1rfiggrhCiYgw512uDBE=
+
+Name: assets/www/styles/kendo.mobile.all.min.css
+SHA1-Digest: hKfJKgnohm/TGKjtmV3V9rggd0w=
+
+Name: assets/www/content/spa/aeroviewr/images/touch-icon-57-precompose
+ d.png
+SHA1-Digest: Is3jgWDe6i/5g9u9m4/GON071/A=
+
+Name: assets/www/content/mobile/cities/220/boston.jpg
+SHA1-Digest: kWBi9pKS6K5RL/tZkgncD2hq0ww=
+
+Name: assets/www/content/mobile/cities/220/cancun.jpg
+SHA1-Digest: taEPeK5niP/KgkhA3/dWqIfVy1M=
+
+Name: assets/www/content/shared/images/photos/5.jpg
+SHA1-Digest: r0Vnvq9sPBoHzsNLNdrIdRyOPvs=
+
+Name: assets/www/content/shared/images/patterns/pattern2.png
+SHA1-Digest: wx/vyHi3NS3cUZ6qgb2C1MtuJrA=
+
+Name: assets/www/content/shared/js/dropdown.js
+SHA1-Digest: nJ/8aGNDZmZQbriHNFzziNUeebA=
+
+Name: assets/www/content/shared/images/websushi.jpg
+SHA1-Digest: qhe43tZ8dHuq8ooVz95dDOR7rcQ=
+
+Name: assets/www/view/zoomable.html
+SHA1-Digest: +o6featlCPdbCbFuFOICnzc3gZY=
+
+Name: assets/www/styles/textures/dots11.png
+SHA1-Digest: bO5Vrv/g/JXkCHoY4C7v4HM/LM8=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/new-delhi.jp
+ g
+SHA1-Digest: NMG/YkP+YE9Ugja12sGtq9HDCNI=
+
+Name: assets/www/content/shared/styles/world-map.png
+SHA1-Digest: 2VKqL9zX5O3DtRXlCAMz56Dubm0=
+
+Name: assets/www/content/spa/websushi/images/75/shiromi.jpg
+SHA1-Digest: FevDcbEQQx3StWrqRbB2tY/P8dQ=
+
+Name: assets/www/content/shared/styles/dojo-banner.jpg
+SHA1-Digest: IXAwrCSqGfsEVTDpy9hMcjFZeV4=
+
+Name: assets/www/button/appearance.html
+SHA1-Digest: 0vXonJgvcRHbT5ckSDISk1fJDVA=
+
+Name: assets/www/content/shared/js/prettify.js
+SHA1-Digest: 0ksdo0K1wtBYLwkiEYqvCypoQNU=
+
+Name: assets/www/content/shared/js/everlive.all.js
+SHA1-Digest: PLY/MVGEQLHJ85D4QsGDyOqSUII=
+
+Name: assets/www/content/spa/aeroviewr/images/touch-icon-114-precompos
+ ed.png
+SHA1-Digest: zYyTfQTWw+vDe2CZvVdKxK+ZJaE=
+
+Name: assets/www/content/shared/styles/flowers-right.png
+SHA1-Digest: XpVRk3slV02Zl/6tSU3dELP9ffU=
+
+Name: assets/www/navbar/appearance.html.bak
+SHA1-Digest: FIdf7yOdTW5NGWR1q+fWQ8ln03s=
+
+Name: assets/www/content/shared/images/photos/7.jpg
+SHA1-Digest: w+E/tSIg5l+biygltkNIwZ6nMSM=
+
+Name: assets/www/content/web/foods/28.jpg
+SHA1-Digest: bVV3mMmtEB6Es+w3d9GK+FQituA=
+
+Name: assets/www/content/shared/styles/demos-dataviz.png
+SHA1-Digest: P7tcYzumzj8QG91C6zRhDUywb/s=
+
+Name: assets/www/content/spa/websushi/css/images/main-image.png
+SHA1-Digest: fTdCmb9AoDdlSNkb7hgLVMDIM0I=
+
+Name: assets/www/content/shared/styles/qr-icon.png
+SHA1-Digest: fTsvQPSwGLToZ90FipHAEE0Qy1I=
+
+Name: assets/www/application/transitions.html
+SHA1-Digest: wZRh251Iz400eq+ilJmqL24p2EM=
+
+Name: assets/www/content/shared/styles/fonts/MetricWeb-Semibold.ttf
+SHA1-Digest: bZV775s/oXDuAem88sd6L9jwb+A=
+
+Name: assets/www/content/shared/styles/mobile-themebuilder.jpg
+SHA1-Digest: 4gKw7v+JgPYR8c5DtmNoT/OMrJk=
+
+Name: assets/www/content/shared/styles/sushi.png
+SHA1-Digest: PiZnZAf4NGuQU9NiLr+UBUkOrFE=
+
+Name: assets/www/styles/textures/transparency.png
+SHA1-Digest: fwfwx24Vmys/BFHzMCz51zYQdiw=
+
+Name: assets/www/content/web/foods/25.jpg
+SHA1-Digest: s8vWePnbkBxKryvUeRC72B0LiUg=
+
+Name: assets/www/content/web/foods/6.jpg
+SHA1-Digest: kyfSbz1mU2TXm5OMI6KOGXU4x6I=
+
+Name: assets/www/content/shared/styles/kendoui-dojo.jpg
+SHA1-Digest: a/qEduVU34UworrXx5WNd4+9v7E=
+
+Name: assets/www/content/web/foods/76.jpg
+SHA1-Digest: +XNuNd9nf4VGmg40dEdDVXRx6qk=
+
+Name: assets/www/content/spa/websushi/css/images/arrow-left.png
+SHA1-Digest: IeVH81CSzF7vIobBaoIDw1iDkgY=
+
+Name: assets/www/content/spa/websushi/css/images/logo.png
+SHA1-Digest: dqAP3zRy7E7JxiKWV6RGM1faWHQ=
+
+Name: assets/www/styles/textures/stripe3.png
+SHA1-Digest: 0Q6lcsKDBWUvbU4r5szcBy0ZLT0=
+
+Name: assets/www/styles/textures/dots6.png
+SHA1-Digest: MfEgPzNi9QkqY6tzXXpgSpgdo0c=
+
+Name: assets/www/content/mobile/overview/annette.jpg
+SHA1-Digest: CFsqPI0OP6XpKA23Yu226GxSBIM=
+
+Name: assets/www/content/shared/styles/flags.png
+SHA1-Digest: VzdfrogESaaFO2Uws8WzOxsSEu4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: y2074HorG7z+WC70gIfUXEcg2cw=
+
+Name: assets/www/content/mobile/cities/220/sydney.jpg
+SHA1-Digest: pCQifCYCSNkT8GCVAE6trZXhS+c=
+
+Name: assets/www/content/web/foods/200/31.jpg
+SHA1-Digest: kVSzW3wAR5kEYQ3cDUURhxqf2Xk=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/nice.jpg
+SHA1-Digest: /0A8n7JzWWjpMRzBmnqu2uxYnA4=
+
+Name: assets/www/styles/Default/indeterminate.gif
+SHA1-Digest: tBYJm2k+xI39XAPE/+bug7p9HyQ=
+
+Name: assets/www/content/spa/websushi/images/200/shiromi.jpg
+SHA1-Digest: 5fR0NebDBsTyWFn3dOB3uNQ0d08=
+
+Name: assets/www/content/shared/styles/teampulse.jpg
+SHA1-Digest: CBU0wWlBGfNsiGokFU04simcy3g=
+
+Name: assets/www/content/shared/styles/fonts/MetricWeb-Semibold.svg
+SHA1-Digest: DHQcSwAkYrWXuWiV4pA/R9Wq6+c=
+
+Name: assets/www/content/shared/styles/bootstrap.png
+SHA1-Digest: SrZiG2cbqChjvyeYjG/pyTV0Wwk=
+
+Name: assets/www/content/shared/styles/chart-wrapper-small.png
+SHA1-Digest: M78jraswyXWEo8mTvId+CIMVs9c=
+
+Name: assets/www/styles/Default/slider-h.gif
+SHA1-Digest: h/e+b6iGOrujCJrUQlI7lkUMdgc=
+
+Name: assets/www/styles/images/wp8_inverseicons.png
+SHA1-Digest: xvpxYRd/m4D6qYjxHsJ+GVNlqFY=
+
+Name: assets/www/listview/detailbuttons.html
+SHA1-Digest: tO3XEPZEIyd3BP+4QHNUJCq3iGo=
+
+Name: assets/www/listview/databinding.html
+SHA1-Digest: ecUIe7PFAHMxyWGotwZUdtXc4b8=
+
+Name: assets/www/content/spa/websushi/images/75/edamame.jpg
+SHA1-Digest: Ln2SC3EnZrb6ZApRMWwcRCkSZUI=
+
+Name: assets/www/content/shared/images/mobile-landing.jpg
+SHA1-Digest: /mnH0P6sBK4qOe2l1rmfgwmCjO8=
+
+Name: assets/www/content/mobile/cities/220/berlin.jpg
+SHA1-Digest: nUBUrCis3RS5nTfxkyfDgpyR4d4=
+
+Name: assets/www/content/web/foods/55.jpg
+SHA1-Digest: YoFVHo1bH0R2u3ouTLPqy7RrrLA=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/san-francisc
+ o.jpg
+SHA1-Digest: 3A/7c/XDyIYaQQuJPVbikEk/y7M=
+
+Name: assets/www/content/web/foods/69.jpg
+SHA1-Digest: 1iLnJP7/kP4TZr6lyu/rKZlCM+k=
+
+Name: classes.dex
+SHA1-Digest: VSB8OGajuxuJF32/i6vFOAnscX4=
+
+Name: assets/www/content/shared/icons/16/photo.png
+SHA1-Digest: mnyfphlJJZFp5APmJ4939uDePfg=
+
+Name: assets/www/content/mobile/overview/carine.jpg
+SHA1-Digest: 7GsP8g0l3AuJNR8cHTsuBUb5qHY=
+
+Name: assets/www/content/shared/images/patterns/pattern8.png
+SHA1-Digest: 7FwfZg+zM0GPOq08BDvQp0iv0D4=
+
+Name: assets/www/content/mobilethemebuilder/images/diego.jpg
+SHA1-Digest: Zf0nmibE0DPlEygNtKKXBDtlm0M=
+
+Name: assets/www/content/mobile/overview/ann.jpg
+SHA1-Digest: asdMyNETwszTjZiGJNsCZGjO17c=
+
+Name: assets/www/content/shared/styles/chart-wrapper.png
+SHA1-Digest: ZEwTiXLo7EMZcUdbswWEddsFVJ0=
+
+Name: assets/www/content/mobile/overview/antonio.jpg
+SHA1-Digest: i0R5rTlh2lyaIwc0DpUqcoIYIkg=
+
+Name: assets/www/content/mobilethemebuilder/images/eduardo.jpg
+SHA1-Digest: ukzXZG2ARGT6MYvUelNQDj/ig/Y=
+
+Name: assets/www/layout/index.html
+SHA1-Digest: ymYehskG6cfnuriT95Bauoub+Jw=
+
+Name: assets/www/styles/Default/markers.png
+SHA1-Digest: Sa/WYSqOZIdSoodJXITirJSDNTE=
+
+Name: assets/www/content/web/foods/66.jpg
+SHA1-Digest: qXib6u+l/d0wWKpwhFGuDuLwHKM=
+
+Name: assets/www/content/spa/websushi/css/images/arrow-reverse.png
+SHA1-Digest: NtqCK6/Grghstz6nCBpr9s8hjhM=
+
+Name: assets/www/content/mobile/shared/titanic3.jpg
+SHA1-Digest: 3y4UyiH56WjRor03tbV12qU8MOk=
+
+Name: assets/www/content/shared/styles/launch-themebuilder.png
+SHA1-Digest: eazS05IjbKzOxZMfp3qVOyEGYuQ=
+
+Name: assets/www/content/shared/js/orders.js
+SHA1-Digest: J/DPa3Y3yDvv8BlvrEhqz2NdkYY=
+
+Name: assets/www/content/web/foods/46.jpg
+SHA1-Digest: tj1v5UGiutYjL/MZmpFKhi1U38k=
+
+Name: assets/www/content/shared/styles/tag-beta@2x.png
+SHA1-Digest: Ar1gZfi8hE3UOt6c/1JekHMMK8Y=
+
+Name: assets/www/content/web/foods/71.jpg
+SHA1-Digest: ENfTFRSTgwNATc3zuxXgPVgLRTY=
+
+Name: assets/www/content/mobile/overview/christina.jpg
+SHA1-Digest: IxmJVXen556OaAn6Q43zxuu4Zqg=
+
+Name: assets/www/content/web/foods/61.jpg
+SHA1-Digest: tgVr898t29nfKjT6qsSxc1za1eI=
+
+Name: assets/www/content/spa/websushi/images/200/chirashi-sushi.jpg
+SHA1-Digest: UBx6WYqTcJUyGmr18oEKkWqGF5I=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: lY5S55YbuSTt9T8CjPbdjsnMldc=
+
+Name: assets/www/content/spa/websushi/images/75/tekka-maki.jpg
+SHA1-Digest: k1GO24rhvv/0yZe8O4hN/R9fxoc=
+
+Name: assets/www/content/web/foods/65.jpg
+SHA1-Digest: nEG426npEBO9oiRSsM7bK9QsG70=
+
+Name: assets/www/content/spa/websushi/css/images/background-image.png
+SHA1-Digest: kSAy92FnrjG/VKRv7AOq7ocUZDw=
+
+Name: assets/www/styles/Default/markers_2x.png
+SHA1-Digest: qj3tcQUmWH+8aexzQnFLt7161H8=
+
+Name: assets/www/content/spa/websushi/images/200/spicytuna-rolls.jpg
+SHA1-Digest: iN4nXpPwSIRO/AeZ16EvZ7JXHng=
+
+Name: assets/www/content/shared/js/dataloader.js
+SHA1-Digest: oGAwd1KBlBXOQy6BPzCAbTV0uM8=
+
+Name: assets/www/content/web/foods/41.jpg
+SHA1-Digest: iYLJmxnu9H1gJ00/hBxf0PK1r2o=
+
+Name: assets/www/content/spa/aeroviewr/images/touch-icon-72-precompose
+ d.png
+SHA1-Digest: BYj9AJ06iaNZPQd+r3QEHBbEnO0=
+
+Name: assets/www/styles/kendo.default.min.css
+SHA1-Digest: jyQEZ12e49k/uUqYY8yJNDYIS/E=
+
+Name: assets/www/styles/kendo.rtl.min.css
+SHA1-Digest: GxR1JPiGQeVdDqhK2RCqTaL467c=
+
+Name: assets/www/content/mobilethemebuilder/images/carine.jpg
+SHA1-Digest: 7GsP8g0l3AuJNR8cHTsuBUb5qHY=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/bonn.jpg
+SHA1-Digest: sCvtp3Lbl88VH57C3UytJsxkeFQ=
+
+Name: assets/www/content/shared/images/photos/220/2.jpg
+SHA1-Digest: Nqfz0X6hQX8/6+Uh07bQxN5SIfc=
+
+Name: assets/www/content/spa/websushi/images/200/tori-katsu.jpg
+SHA1-Digest: P1wllxuWEqwT6cFsoIh932TvuoE=
+
+Name: assets/www/content/shared/styles/flowers-left.png
+SHA1-Digest: eNUkhG1LQH5Dis0PuOfwVOMSIGg=
+
+Name: assets/www/listview/pull-to-refresh.html
+SHA1-Digest: 6nyAWtxBVjsW/P8PuIqkNxZ0UgI=
+
+Name: assets/www/content/web/foods/57.jpg
+SHA1-Digest: 3yZlOn1yft95PN+u2JgN/8Zrn2c=
+
+Name: assets/www/content/mobile/overview/felipe.jpg
+SHA1-Digest: 2pqW+jcZSJ7ST5JbUeBIxOIaSt4=
+
+Name: assets/www/styles/textures/transtexture.png
+SHA1-Digest: JYSHRUSCA1U46Tg2GH0hI7kOYXw=
+
+Name: assets/www/adaptive/grid.html
+SHA1-Digest: O03pdAXdMT5+x8V05WUelYZxCBY=
+
+Name: assets/www/content/mobilethemebuilder/images/daniel.jpg
+SHA1-Digest: 2mkW5oQvpSR306CxxofZaWix/IE=
+
+Name: assets/www/content/mobile/listview/maguro.jpg
+SHA1-Digest: 6fZfYHnjOS74by3BJzX+xG7JIGU=
+
+Name: assets/www/index.html
+SHA1-Digest: 2mpQEsToa6n8be1DxMUXQkKuKJ0=
+
+Name: assets/www/button/mvvm.html
+SHA1-Digest: 6czzbwdT1VSUnAb1waHrgULxVRI=
+
+Name: assets/www/content/web/foods/48.jpg
+SHA1-Digest: K0HZk3nuwm+NIvO7DqRrdNyt4pw=
+
+Name: assets/www/button/events.html
+SHA1-Digest: GSvEltOxefJfn0i/ew01pu6yXbM=
+
+Name: assets/www/content/mobile/shared/genovese.jpg
+SHA1-Digest: amvu70zTnhN292bFBpJcoQYDGgg=
+
+Name: assets/www/content/mobilethemebuilder/images/blackberry.png
+SHA1-Digest: 7x2wMhAADbplEhYtc8B51Z2bWnw=
+
+Name: assets/www/listview/mvvm.html
+SHA1-Digest: YO3ZQoLgA+CKAKvOwzZ6VYI5Ql0=
+
+Name: assets/www/content/mobile/shared/qr.png
+SHA1-Digest: PrAV+wyR4AqSaLzL8uyuBQUANII=
+
+Name: assets/www/splitview/appearance.html
+SHA1-Digest: gO8CiQlVZbbE74tAJjeE5SWy4ko=
+
+Name: assets/www/content/mobile/cities/220/new-delhi.jpg
+SHA1-Digest: NMG/YkP+YE9Ugja12sGtq9HDCNI=
+
+Name: assets/www/styles/Default/slider-v.gif
+SHA1-Digest: 3ZDFifguUGScMLEfNHMlPiLxMwE=
+
+Name: assets/www/content/mobilethemebuilder/images/Icon-72.png
+SHA1-Digest: ciTK0UdEtsE9imQJJKzSMNwimq0=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/melbourne.jp
+ g
+SHA1-Digest: o0a6RxUI5j9ULygyyr5MVTkyMw8=
+
+Name: assets/www/content/spa/websushi/menu.json
+SHA1-Digest: Naa2OPd8Ol1MFQeYSOnMW1mNs1M=
+
+Name: assets/www/content/shared/images/photos/220/5.jpg
+SHA1-Digest: SomzBX8wEMSUsRnyXZO573yotiA=
+
+Name: assets/www/content/mobile/modalview/lens.png
+SHA1-Digest: wxQtEzdEvgvkP6rQKp+RmJ3NOWg=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-Regular-Web.ttf
+SHA1-Digest: uBjgrPx07PdwGUAkC2wxojGa8hc=
+
+Name: assets/www/js/kendo.all.min.js.map
+SHA1-Digest: Df3pnhbHROKvjpQW22IdzR19fs4=
+
+Name: assets/www/content/shared/images/photos/220/12.jpg
+SHA1-Digest: ozM9MiUPfEJ0WpAr2YIn0I/Bd/o=
+
+Name: assets/www/content/mobile/application/play-music.html
+SHA1-Digest: +0BK4QAQNFMHiszVwy8zy5ljy/g=
+
+Name: assets/www/content/shared/images/photos/1.jpg
+SHA1-Digest: fRpJgbksYjWo9yQiMRjVmRj/Jqg=
+
+Name: assets/www/styles/textures/dots1.png
+SHA1-Digest: HGNBum0tqbTTU/vLVaiLqvPxTNM=
+
+Name: assets/www/content/spa/websushi/images/200/ebi-rolls.jpg
+SHA1-Digest: oTSPv9MurnFnOI9fpP3JMQ55JEQ=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: zvchM8fEDL7c1JhUfpS+Fyi1tm8=
+
+Name: assets/www/content/shared/images/foods/200/12.jpg
+SHA1-Digest: ZlYf246iDkxBEKeGCBaWX4r7pFI=
+
+Name: assets/www/content/spa/websushi/css/images/arrow-right.png
+SHA1-Digest: tbRGrlwCPYw6Tq9NwirdtNimHKs=
+
+Name: assets/www/styles/Default/loading_2x.gif
+SHA1-Digest: 2KujwOB5qlqp5NIdH+Oi9WoOscc=
+
+Name: assets/www/content/web/foods/49.jpg
+SHA1-Digest: YxMijwmo17VQfN95RSe5FZ1IKQs=
+
+Name: assets/www/drawer/two-way-drawers.html
+SHA1-Digest: qaZCbL45xlDvs4yA+NVbaKl6MVQ=
+
+Name: assets/www/content/shared/images/photos/11.jpg
+SHA1-Digest: 52dFb82aH7iWB82fbMJs1+FDw/c=
+
+Name: assets/www/content/shared/images/foods/200/32.jpg
+SHA1-Digest: WR+E7sU8pdRmCDlGQq4ef9Z1pNM=
+
+Name: assets/www/content/web/foods/1.jpg
+SHA1-Digest: AX3EtsUVyW6YDtnBxYg3iTvxHJ0=
+
+Name: assets/www/styles/textures/dots8.png
+SHA1-Digest: 9Bxylv33giNaaSg1uaglWN2Niio=
+
+Name: assets/www/content/mobile/shared/titanic1.jpg
+SHA1-Digest: wth7+YpN4lSJiXXMpwNDKlzmIpg=
+
+Name: assets/www/content/mobile/shared/titanic2.jpg
+SHA1-Digest: YsbkTZOIpHuCpCgz2rhZAznLt18=
+
+Name: assets/www/content/mobilethemebuilder/images/android.png
+SHA1-Digest: acOlDBLcyOSvV7jbsqp7f1cODQ8=
+
+Name: assets/www/modalview/index.html
+SHA1-Digest: 59kBQt+JrydKEHCAXcdr45NEVIA=
+
+Name: res/xml/config.xml
+SHA1-Digest: KltwCNSv4s1gm6HI/s6F1FyJUgU=
+
+Name: assets/www/content/shared/styles/fonts/DroidSansWeb.ttf
+SHA1-Digest: d2ZypiQGDK8niJ6/HCMtvfaELw4=
+
+Name: assets/www/content/web/foods/200/32.jpg
+SHA1-Digest: WR+E7sU8pdRmCDlGQq4ef9Z1pNM=
+
+Name: assets/www/navbar/index.html
+SHA1-Digest: nsQeTkI6GEsTbuyJFnTJduR/ARw=
+
+Name: assets/www/content/mobile/overview/diego.jpg
+SHA1-Digest: Zf0nmibE0DPlEygNtKKXBDtlm0M=
+
+Name: assets/www/content/mobilethemebuilder/images/francisco.jpg
+SHA1-Digest: B2yDA8FmpO5I0JROOtdASaG7/VY=
+
+Name: assets/www/content/shared/images/photos/220/3.jpg
+SHA1-Digest: 49v8Qu+586+exSh6QVd/TTga0X8=
+
+Name: assets/www/content/shared/styles/fonts/FaktSlabPro-Medium.otf
+SHA1-Digest: tTvonVTKAgMlv+07kgwoF8LemVI=
+
+Name: assets/www/content/web/foods/56.jpg
+SHA1-Digest: /Sq009Kt3xdov6PRYNSOT36qJPE=
+
+Name: assets/www/content/shared/styles/sushi-mobile.jpg
+SHA1-Digest: nhs8iwQP9B6OR11HKR8JrKDp6+o=
+
+Name: assets/www/content/spa/websushi/images/200/hosomaki-mix.jpg
+SHA1-Digest: fqmHw9I8N5KGyuFDC92QR3LxmPc=
+
+Name: assets/www/content/mobilethemebuilder/images/wp8.png
+SHA1-Digest: i1pVkZDCtWFrJG2/IOA8QGwv0lU=
+
+Name: assets/www/content/spa/websushi/css/images/nav-next.png
+SHA1-Digest: jLp+Nqyn8aGzz2JdLlO15c6o0R4=
+
+Name: assets/www/content/web/foods/45.jpg
+SHA1-Digest: nOhqVE8NFuZWwIVoppA309A1VEw=
+
+Name: assets/www/content/spa/websushi/images/200/miso-soup.jpg
+SHA1-Digest: QPXFfOyZwzNKMRFu0RRd93tE8RU=
+
+Name: assets/www/scrollview/databinding.html
+SHA1-Digest: 20pi0CCamWy/+tVhW4k+PvijTJY=
+
+Name: assets/www/content/mobilethemebuilder/scripts/gradientpicker.js
+SHA1-Digest: 5t8LAf+iXGAq/6mvtlcfZLDBjFc=
+
+Name: assets/www/content/shared/styles/console.css
+SHA1-Digest: dSuUcsmDI4XHw485K44wSJQp228=
+
+Name: assets/www/content/shared/styles/sprite.widgets.png
+SHA1-Digest: XZEqtfefjY1poUiu+qR1RphgDG0=
+
+Name: assets/www/content/spa/websushi/css/images/sushi-preview.png
+SHA1-Digest: KbXzeg9c7qXIgcujF0U2fOx/yzk=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-LightWeb.ttf
+SHA1-Digest: Pc2Cos/tTF4wWq0LisVHL8LJbsg=
+
+Name: assets/www/content/spa/websushi/css/images/item-separator.png
+SHA1-Digest: 7JtmHfBo45AOrdQTQOTlV0kkX+k=
+
+Name: assets/www/cordova.js
+SHA1-Digest: sJgqIga74QDdX9B76yLQq9ZJNRI=
+
+Name: assets/www/listview/endless-scrolling.html
+SHA1-Digest: rr+4/aLJ/pXIsRWJYo0e6WcW9yc=
+
+Name: assets/www/js/kendo.all.min.js
+SHA1-Digest: 71piPc7+1PB+dSt4JkYVARDMwCA=
+
+Name: assets/www/content/spa/websushi/images/75/california-rolls.jpg
+SHA1-Digest: Y5ruTD+YonPwT+wXIxJldfnRmyA=
+
+Name: assets/www/content/spa/websushi/images/75/maguro.jpg
+SHA1-Digest: TU2p67bCmua/JZOwuakm0OGoMKs=
+
+Name: assets/www/content/web/foods/58.jpg
+SHA1-Digest: qzV/F4Bo9BpFT6wF4mykM+O46MI=
+
+Name: assets/www/styles/textures/hue.png
+SHA1-Digest: EACrUMj0WpPouoExBHRiJFNZW0E=
+
+Name: assets/www/content/spa/websushi/images/75/gohan.jpg
+SHA1-Digest: dCZbCyjm1oudOcJj8LVe7u+6nhA=
+
+Name: assets/www/content/shared/images/photos/220/6.jpg
+SHA1-Digest: CQzp0HV4IyRddimqtoK/010X/lo=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/berlin.jpg
+SHA1-Digest: nUBUrCis3RS5nTfxkyfDgpyR4d4=
+
+Name: assets/www/styles/Default/sprite.png
+SHA1-Digest: ayAnryuNEHq/JtmCa0yui4q4NPw=
+
+Name: assets/www/content/web/foods/21.jpg
+SHA1-Digest: kJQAGMj8VU60lxaTwYqEYttOU5E=
+
+Name: assets/www/content/spa/websushi/css/images/MainImage.jpg
+SHA1-Digest: t9ndasulj9O+at9BxWPKvuKll/o=
+
+Name: assets/www/switch/events.html
+SHA1-Digest: CjIcdMn8Y6hK86OVJsKbEopjceM=
+
+Name: assets/www/styles/textures/dots7.png
+SHA1-Digest: cO1X1w0ytwHuLqnaGLIuVAmCfr4=
+
+Name: assets/www/content/mobile/listview/seaweed-salad.jpg
+SHA1-Digest: 8+U0kAwK5mc8K9FyJdiuMkoskGE=
+
+Name: assets/www/content/shared/styles/kendoui.ttf
+SHA1-Digest: gu+LyZ5dhx772hfIYWT+wKclIvs=
+
+Name: assets/www/listview/fixedheaders.html
+SHA1-Digest: O0dQ8tQv1ilkHIXlJDFhyOGq+w4=
+
+Name: assets/www/content/shared/images/photos/220/4.jpg
+SHA1-Digest: VpYIsUW7j4Z1mhh9bNjn/MoaOXo=
+
+Name: assets/www/content/web/foods/29.jpg
+SHA1-Digest: elaEL7b+4Tzvs7DdOJvg/thojOw=
+
+Name: assets/www/content/web/foods/52.jpg
+SHA1-Digest: 8w4L7QzAswxPaIJZzJ+hbBznmP0=
+
+Name: assets/www/content/shared/styles/fonts/FaktSlabPro-Medium.eot
+SHA1-Digest: txud84TzqOuro+pWGusDYkxCYk0=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-Regular-Web.svg
+SHA1-Digest: lJzlcF1hIrEH3WpmHbZY4x3pYi0=
+
+Name: assets/www/content/spa/websushi/css/images/nav-prev.png
+SHA1-Digest: aarI2+LV7fNKBqOY3YrG8eZ6rlQ=
+
+Name: assets/www/content/web/foods/11.jpg
+SHA1-Digest: xIdMFYwtUWuQ46xUxTGmuQPW2KY=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/paris.jpg
+SHA1-Digest: hs9uUZNCvu5mx1QzS1bkK0QbxX8=
+
+Name: assets/www/content/web/foods/17.jpg
+SHA1-Digest: YTAuESJHcPU6RxkO7dmSHcEv+W0=
+
+Name: assets/www/content/mobile/overview/daniel.jpg
+SHA1-Digest: 2mkW5oQvpSR306CxxofZaWix/IE=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-LightWeb.svg
+SHA1-Digest: khDuc/hpwe8CZDaUvGaxdXtk6pM=
+
+Name: assets/www/content/shared/styles/ipad.png
+SHA1-Digest: UUfNZgMa949h7cX0nY0xQis3/Yg=
+
+Name: assets/www/content/shared/icons/sports/swimming.png
+SHA1-Digest: FCI4PNDSKW87eLQIfl/zxJUrEG8=
+
+Name: assets/www/content/web/foods/30.jpg
+SHA1-Digest: bkSBL28Oa7Y5P4Ur4PSIZlNvqq4=
+
+Name: assets/www/styles/textures/dots3.png
+SHA1-Digest: Yw+AX3xJkJOFk0eYmGQwbdZRkiM=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/liverpool.jp
+ g
+SHA1-Digest: dDLCsaZ53qfG/3qQw/pMNKnUfww=
+
+Name: assets/www/content/shared/icons/sports/snowboarding.png
+SHA1-Digest: c+l4RVCBrPinMNZA7gpxkq4rIbM=
+
+Name: assets/www/content/shared/images/photos/2.jpg
+SHA1-Digest: L0XKRPndPXKhQmaC1iDWaQ1FTqY=
+
+Name: assets/www/buttongroup/navbar.html
+SHA1-Digest: FG3B/lyspfrwSAAb4I1LLUUoB9g=
+
+Name: assets/www/styles/textures/dots5.png
+SHA1-Digest: WM/9vOWlRuDmQaCK07sf1/vuRss=
+
+Name: assets/www/content/mobile/shared/sprite.devices-13-q3.png
+SHA1-Digest: ECBzLXsurPECZMz9I0qZY+p83mI=
+
+Name: assets/www/scroller/pull-to-refresh.html
+SHA1-Digest: YT7IE0uVNL9+1AYAZJZz+qM26no=
+
+Name: assets/www/content/mobilethemebuilder/scripts/slider.js
+SHA1-Digest: VAlhr5hqAKh8lYzEjRyGK6DYeH4=
+
+Name: assets/www/content/spa/websushi/images/75/miso-soup.jpg
+SHA1-Digest: FI6sVx5yoms2tX8RzfnYSqvDyzg=
+
+Name: assets/www/content/mobile/overview/ottawa.jpg
+SHA1-Digest: f65V4b2IruIv6ztCWhD0E5Se5qo=
+
+Name: assets/www/content/spa/websushi/images/200/gohan.jpg
+SHA1-Digest: Aj2Xxz9erDuAdHDg4gq5MzkzF7g=
+
+Name: assets/www/content/spa/websushi/images/200/seaweed-salad.jpg
+SHA1-Digest: 22G+/TSOvqoafon+FcSxSuHjoyw=
+
+Name: assets/www/styles/images/wp8_icons.png
+SHA1-Digest: ep39FOEzBLrhy7IFudwqqkj8pd4=
+
+Name: assets/www/content/shared/images/photos/220/9.jpg
+SHA1-Digest: 9Oq/4CVJtNQ0L7JIaa2YbIKFp1g=
+
+Name: assets/www/content/mobilethemebuilder/images/elizabeth.jpg
+SHA1-Digest: iaRnEktw7uGS0zTT73r12mQJppQ=
+
+Name: assets/www/content/shared/images/photos/220/1.jpg
+SHA1-Digest: cx5bhYvv/sn0P4JYHYiDM50DMak=
+
+Name: assets/www/content/mobilethemebuilder/scripts/colorengine.js
+SHA1-Digest: vSaX3Q4G9F1aDXO6hatkLZnuPn4=
+
+Name: assets/www/content/shared/js/console.js
+SHA1-Digest: OIE3BnU+lH59oiJS63SgWVlqQMo=
+
+Name: assets/www/content/shared/styles/fonts/FaktSlabPro-Medium.woff
+SHA1-Digest: nGujOsQFwffIRfz2R7UZt8i1VNE=
+
+Name: assets/www/content/mobile/listview/food.jpg
+SHA1-Digest: WYrhFGa6mqvrMFoFfUcx/Rr1Rmc=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: fpicrgcetWnyxeypb9zZLHy7Zro=
+
+Name: assets/www/tabstrip/badges.html
+SHA1-Digest: MBM+L0BVA708hjqn07yRSPrtJUk=
+
+Name: assets/www/content/mobile/overview/london.jpg
+SHA1-Digest: OP2ipqcLY9U+AN0Pot2fxclDB0o=
+
+Name: assets/www/content/web/foods/50.jpg
+SHA1-Digest: z7Ne4934/bW5dHFosQ9EO5ahulc=
+
+Name: assets/www/content/shared/images/photos/220/7.jpg
+SHA1-Digest: KGhM12l8Uusuo1GMEvglKpNIlmQ=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-LightWeb.eot
+SHA1-Digest: umsnq4fqQXK4YU3oBieJfz5kdbk=
+
+Name: assets/www/buttongroup/appearance.html
+SHA1-Digest: 9hP9QErlVGgXWXJtFsKxr8Uahuk=
+
+Name: assets/www/content/shared/images/photos/9.jpg
+SHA1-Digest: 9fZBV1HfVkfcxYH1XnLEpCfVDLs=
+
+Name: res/drawable-xhdpi/splash.png
+SHA1-Digest: gx4EuM+qWBADRQIA1+LYWri5QXE=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/cape-town.jp
+ g
+SHA1-Digest: RnKCrAFKxpDMkQAzM7C5m+lc+us=
+
+Name: assets/www/styles/images/kendoui.ttf
+SHA1-Digest: gu+LyZ5dhx772hfIYWT+wKclIvs=
+
+Name: assets/www/listview/local-virtualization.html
+SHA1-Digest: EGwHpuKjUL1UsntaCxTSZYIQi0M=
+
+Name: assets/www/content/web/foods/42.jpg
+SHA1-Digest: QSG0bK/QhfF0rcD2CDqUqUjFeJ4=
+
+Name: assets/www/content/mobile/listview/sashimi-salad.jpg
+SHA1-Digest: NQLKTkf6VUUFrhKRuWFlNXThAho=
+
+Name: assets/www/content/shared/styles/iphone.png
+SHA1-Digest: CRvvHGfdKUxwgGtWnmeXwtKXaSc=
+
+Name: assets/www/content/shared/styles/dojo.png
+SHA1-Digest: I+4WqBPscH3pxyTn9+JZWnQ+/oY=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/cancun.jpg
+SHA1-Digest: taEPeK5niP/KgkhA3/dWqIfVy1M=
+
+Name: assets/www/content/shared/images/patterns/pattern4.png
+SHA1-Digest: 4abCamItOmglQ8+b1/9yKvgbfFs=
+
+Name: assets/www/content/shared/styles/feedback-portal.png
+SHA1-Digest: rSQEY0shGlaThivSTanpdAW3ObU=
+
+Name: assets/www/switch/index.html
+SHA1-Digest: 8JzTgob7w8WTVKTmldLcb11NE2A=
+
+Name: assets/www/content/spa/aeroviewr/css/aeroviewr.css
+SHA1-Digest: L0/bfTqE0iU7eJtic3BhRVvb78w=
+
+Name: assets/www/content/spa/websushi/images/75/yaki-udon.jpg
+SHA1-Digest: mQv6T4MNOfS5IvUgdMW+h2OXIk8=
+
+Name: assets/www/content/web/foods/60.jpg
+SHA1-Digest: wJcp7dKR5223pVRPembE3+RMMuo=
+
+Name: assets/www/content/shared/images/photos/220/13.jpg
+SHA1-Digest: L+PQ2Y9Y5nft28knU8xD3gjCsSA=
+
+Name: assets/www/content/shared/styles/flat.png
+SHA1-Digest: e46I8JFgtc+vi5OMvStZCJ+Xzzg=
+
+Name: assets/www/content/web/foods/78.jpg
+SHA1-Digest: vW64x0Ufo3HKBOY6qpI62IxW5j8=
+
+Name: assets/www/content/mobilethemebuilder/scripts/fontpicker.js
+SHA1-Digest: cvV5oyN217zK7xouEI2Go8IAUN0=
+
+Name: assets/www/content/mobilethemebuilder/images/antonio.jpg
+SHA1-Digest: i0R5rTlh2lyaIwc0DpUqcoIYIkg=
+
+Name: assets/www/content/web/foods/200/33.jpg
+SHA1-Digest: kOL10kNSNJXQmFQ61AUVQA76hks=
+
+Name: assets/www/content/shared/styles/telerik-logo.png
+SHA1-Digest: 5Y0TA6NAUGPl/9/5pjiY+1Pbb6g=
+
+Name: assets/www/styles/textures/dots9.png
+SHA1-Digest: 9/ZIEMOM3rs2si1lGSyxiNxJbcg=
+
+Name: assets/www/content/shared/images/photos/220/14.jpg
+SHA1-Digest: /xlA1rT2Uh8EbBXuY/o8aIIse9g=
+
+Name: assets/www/content/spa/aeroviewr/images/loading.gif
+SHA1-Digest: s8a8G5VGKMVUaAMlZWQx6JTOM1w=
+
+Name: assets/www/content/shared/styles/tag-new.png
+SHA1-Digest: UufGOdDUJb2gVpmgQUwBld4Q1GU=
+
+Name: assets/www/content/web/foods/2.jpg
+SHA1-Digest: VDe7f4slASSlV9X7Iwuuld/Vlrw=
+
+Name: assets/www/splitview/index.html
+SHA1-Digest: m4/fcpDqDnk9KrWbcLGqF91AE1w=
+
+Name: assets/www/styles/kendo.common.min.css
+SHA1-Digest: +JCCfYtaeihBC8Yl/17zeER35M0=
+
+Name: assets/www/content/spa/websushi/images/75/seaweed-salad.jpg
+SHA1-Digest: 8+U0kAwK5mc8K9FyJdiuMkoskGE=
+
+Name: res/drawable-mdpi/splash.png
+SHA1-Digest: RK8Tzwr2605vwpwdtvTGpKDlhf4=
+
+Name: assets/www/content/mobile/shared/share.png
+SHA1-Digest: S1TSOSkwEcyXGJyY+b05dpsHI88=
+
+Name: assets/www/content/mobile/view/remoteview.html
+SHA1-Digest: 34yp2is642V7XkUmGaofxjUC4iY=
+
+Name: assets/www/content/spa/websushi/css/images/arrow.png
+SHA1-Digest: IhHmsGBv49CPujqcyXCAB6iglJQ=
+
+Name: assets/www/content/mobile/shared/color-lens.png
+SHA1-Digest: e90g5wVRIlCI09hnD6Xz+6frNwQ=
+
+Name: assets/www/content/shared/styles/kendoui-bootstrap.jpg
+SHA1-Digest: FkdexuBbl2y2Iu8Q6eOftuF5USw=
+
+Name: assets/www/content/web/foods/79.jpg
+SHA1-Digest: IwkpfZVjUxWxTZMUDSW3JpRCb4w=
+
+Name: assets/www/content/shared/js/less.js
+SHA1-Digest: Q6wdrE9joVlksZA/LYAC4M4/eGs=
+
+Name: assets/www/content/spa/websushi/images/200/sashimi-salad.jpg
+SHA1-Digest: /lkuuDcGckRw1izPzCesczFiiMA=
+
+Name: assets/www/styles/textures/stripe2.png
+SHA1-Digest: P/Vfilq36fQ8qOSl2FUYGh+dEG4=
+
+Name: assets/www/content/web/foods/64.jpg
+SHA1-Digest: MyHczPV1iiYvWUdbLbiYkRusIOE=
+
+Name: assets/www/content/web/foods/59.jpg
+SHA1-Digest: TEg0B96stU3joqj6aWAjglyNuIo=
+
+Name: assets/www/content/web/foods/77.jpg
+SHA1-Digest: A7H5GvExv71nHrL0167ULm+zVx4=
+
+Name: assets/www/content/web/foods/74.jpg
+SHA1-Digest: G14c2Bb8PruPkD0SvcmPuzm1UFs=
+
+Name: res/drawable-ldpi/splash.png
+SHA1-Digest: RK8Tzwr2605vwpwdtvTGpKDlhf4=
+
+Name: assets/www/content/web/foods/40.jpg
+SHA1-Digest: 4m3KQmT3TF23skBc44rXgLAhRNk=
+
+Name: assets/www/content/shared/images/photos/14.jpg
+SHA1-Digest: kiV5d7YS4dpRAxGwHzphcmLGvvM=
+
+Name: assets/www/listview/pull-with-endless.html
+SHA1-Digest: uwG1fRukcBvMZdMl01h/AyVN4/4=
+
+Name: assets/www/content/web/foods/72.jpg
+SHA1-Digest: wTj3hgcHKl3w3Aq+f/a20OnFLnA=
+
+Name: assets/www/styles/Default/imagebrowser.png
+SHA1-Digest: 6Xc2cZR/q3fXrvf4DDE8/3myIh4=
+
+Name: assets/www/styles/textures/stripe6.png
+SHA1-Digest: 9qEfi8q5q1oE5gIfcpcer53/cg4=
+
+Name: assets/www/content/shared/images/patterns/pattern6.png
+SHA1-Digest: yHCHr2LCDwTBl7layOPJnQ/9s68=
+
+Name: assets/www/content/web/foods/67.jpg
+SHA1-Digest: Nbv2Qmcnhz7AYn0B07wLVXx4Jj0=
+
+Name: assets/www/content/web/Employees/9.jpg
+SHA1-Digest: LSD6i3qMbx1lsImNcBCbqJbL1Vs=
+
+Name: assets/www/content/mobile/overview/elizabeth.jpg
+SHA1-Digest: iaRnEktw7uGS0zTT73r12mQJppQ=
+
+Name: assets/www/styles/textures/dots12.png
+SHA1-Digest: UV2sHldKeGRJoqOn3MvJ+HvC/xQ=
+
+Name: assets/www/touch/index.html
+SHA1-Digest: 0lbgyJk2R2JATiTH0ig0C2psC7E=
+
+Name: assets/www/popover/index.html
+SHA1-Digest: cvO0C6FCsKDKEjyEwPUPdyyV6rc=
+
+Name: assets/www/content/shared/images/photos/3.jpg
+SHA1-Digest: +LzBar68WLt4wsWjK6a3+F5Ko38=
+
+Name: assets/www/styles/textures/stripe5.png
+SHA1-Digest: rWOhOBUCXyqGNJlOX24s+YxN9YQ=
+
+Name: assets/www/content/web/Employees/8.jpg
+SHA1-Digest: ivVEWeo2djMq4MDeVFZcaWp8iG8=
+
+Name: assets/www/content/mobile/listview/california-rolls.jpg
+SHA1-Digest: Y5ruTD+YonPwT+wXIxJldfnRmyA=
+
+Name: assets/www/application/index.html
+SHA1-Digest: FKG6bQ1/fNu/IQ5O6R+VVVvSjoU=
+
+Name: assets/www/content/shared/images/patterns/pattern1.png
+SHA1-Digest: pJcmOOtELDRFgFrz9aWmrjKDKaM=
+
+Name: assets/www/content/mobilethemebuilder/images/iphone.png
+SHA1-Digest: 8ggUURjiMczeAV20CSPhzxdsMWc=
+
+Name: assets/www/content/web/foods/200/60.jpg
+SHA1-Digest: jNjPD+T73AbDHLLF+QJHk+cwqeA=
+
+Name: assets/www/styles/textures/dots10.png
+SHA1-Digest: qXYvSJlMEoW+7pEHa3vMRgl84EU=
+
+Name: assets/www/content/shared/images/foods/200/72.jpg
+SHA1-Digest: b+ZYkZO3PcHUjc2WSpCLRWWKIeE=
+
+Name: assets/www/content/mobile/overview/melbourne.jpg
+SHA1-Digest: c3MEWs9Cvc2B8g2ipg4BvxKEhEE=
+
+Name: assets/www/button/badges.html
+SHA1-Digest: I9ROHQBeglfPEWtlr5gFk/Ge62I=
+
+Name: assets/www/content/shared/images/patterns/pattern7.png
+SHA1-Digest: O0/wCxP3Mm1vuY5zM1CMNRDzV34=
+
+Name: assets/www/content/mobile/overview/cannes.jpg
+SHA1-Digest: FPwQos/SUr2EWkMffhG/nJT7sss=
+
+Name: assets/www/content/shared/js/dbd26eaf.vendor.js
+SHA1-Digest: HuYMQ816O8mb7ArWK4HdhPuQ/Z8=
+
+Name: assets/www/content/mobilethemebuilder/images/fran.jpg
+SHA1-Digest: I+jSeZMfuWxV2f6L0vyt8qyT7c4=
+
+Name: assets/www/buttongroup/badges.html
+SHA1-Digest: Z/oU9fZcm0HWvozog7qGjqVWAwg=
+
+Name: assets/www/content/web/foods/200/69.jpg
+SHA1-Digest: MSVvmbqJNX4kQVWaag0jgeH5438=
+
+Name: assets/www/content/mobilethemebuilder/images/catherine.jpg
+SHA1-Digest: zdazZ/OMLpMPG325ack1vZ83PZI=
+
+Name: assets/www/content/shared/styles/highlight.png
+SHA1-Digest: WY3bxBhBJdhk/6CMaWEB5OHJcfw=
+
+Name: assets/www/content/shared/images/aeroviewr.jpg
+SHA1-Digest: FzS9e/V1gZ8DG6NMcsk1POfoNgQ=
+
+Name: assets/www/js/jquery.min.js
+SHA1-Digest: mIhCWMvbDZOfosXnT8esnlbYFw8=
+
+Name: assets/www/content/shared/images/photos/4.jpg
+SHA1-Digest: aCbzVPbj5GgfO3SOUpF25ozQC4o=
+
+Name: assets/www/content/mobilethemebuilder/images/help.png
+SHA1-Digest: TpqQ/1IPr1ymJ9oHblpHW5Gb4F0=
+
+Name: assets/www/content/web/foods/53.jpg
+SHA1-Digest: 5IQEtndj4hCn1c/Jtchi3HCPg/M=
+
+Name: assets/www/content/shared/images/patterns/pattern10.png
+SHA1-Digest: gxoUliXo9cf3prmvO+N8Y2ZrK/U=
+
+Name: assets/www/content/mobilethemebuilder/scripts/patternpicker.js
+SHA1-Digest: tHlHqc8K/eW/d5IjPxyQuXmFgO8=
+
+Name: assets/www/content/shared/icons/sports/golf.png
+SHA1-Digest: LScogxlP9S4N8CQjUnvSZWfxuuA=
+
+Name: assets/www/content/mobile/shared/faces.jpg
+SHA1-Digest: pjQvYWFLH0Vpz/mpykJObcF1jfs=
+
+Name: assets/www/content/web/foods/70.jpg
+SHA1-Digest: H6AZqjcNPRLIB7W4V9Ahehxmodk=
+
+Name: assets/www/actionsheet/index.html
+SHA1-Digest: xSh9yR6HM064R+e6oywQcFm13tI=
+
+Name: assets/www/content/mobilethemebuilder/images/cities/boston.jpg
+SHA1-Digest: kWBi9pKS6K5RL/tZkgncD2hq0ww=
+
+Name: assets/www/styles/textures/highlight.png
+SHA1-Digest: Cb2Hi8RqtE0vDXIYONHHf6d7rPE=
+
+Name: assets/www/content/web/foods/34.jpg
+SHA1-Digest: SB3PMVhTz6Wy8IqlXIWMd8ljyaw=
+
+Name: assets/www/content/web/foods/5.jpg
+SHA1-Digest: XL8W9fE+kYpB3yK5Gcq5eFBO4hg=
+
+Name: assets/www/content/shared/styles/bg-glossy.png
+SHA1-Digest: GSxBl7Nk/Srg0cUJpiBSJPovfJI=
+
+Name: assets/www/content/shared/images/patterns/pattern9.png
+SHA1-Digest: Y+g3jAtMm1q9HWLyymbxKq4Ddg4=
+
+Name: assets/www/content/shared/styles/suite.css
+SHA1-Digest: T4MjXMGaTNbjBIxl3pimXehm+h0=
+
+Name: assets/www/content/mobilethemebuilder/scripts/themebuilder.js
+SHA1-Digest: yszf1XhZS9CMZSRvtwJWUhsNvME=
+
+Name: assets/www/content/web/foods/51.jpg
+SHA1-Digest: Mykvcvm8LqGt744Cgnk7783YONI=
+
+Name: resources.arsc
+SHA1-Digest: P3BProXZKjbU30F9hfvT7tQK0fg=
+
+Name: assets/www/content/shared/styles/Menu/thumbSprite.png
+SHA1-Digest: wDUAWjfEXams8B9XVUcwpGSOGS4=
+
+Name: assets/www/content/mobile/overview/fran.jpg
+SHA1-Digest: I+jSeZMfuWxV2f6L0vyt8qyT7c4=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: eTkfMLAafrSWa1a6ZdCQkDUbEpk=
+
+Name: assets/www/buttongroup/index.html
+SHA1-Digest: IAICXBRESWoDK1UGsmB4uoa8qSo=
+
+Name: assets/www/styles/textures/dots13.png
+SHA1-Digest: 51ziLkKMOrtkgU6jnwQb+g84TQA=
+
+Name: assets/www/styles/Default/loading-image.gif
+SHA1-Digest: zQesHQpjHRuxhEWKVYI9vOwYqo4=
+
+Name: assets/www/styles/textures/dots4.png
+SHA1-Digest: 6kLiXl857NgoklfzKp1TmAfrvuY=
+
+Name: assets/www/content/shared/styles/examples.css
+SHA1-Digest: 3lBI+jxn9AVhNRUp+rDBAbAvSCA=
+
+Name: assets/www/content/shared/images/photos/220/10.jpg
+SHA1-Digest: TnCa2M9LKU3nPuGY3P3a81ne5eg=
+
+Name: assets/www/content/mobilethemebuilder/styles/builder.css
+SHA1-Digest: lShnCQ0kqOSqlYEr9xtlkNA7af4=
+
+Name: assets/www/listview/hierarchical-databinding.html
+SHA1-Digest: 1bLxO2nzka9eE1XDskSgDC3GjS8=
+
+Name: assets/www/content/shared/js/products.js
+SHA1-Digest: P/NWG/2GyW6cmxpq6VqtQpIsxyQ=
+
+Name: assets/www/content/spa/websushi/images/75/spicytuna-rolls.jpg
+SHA1-Digest: OFMAMm5DY0fWGskXzapB7kmlIIQ=
+
+Name: assets/www/content/mobile/overview/catherine.jpg
+SHA1-Digest: zdazZ/OMLpMPG325ack1vZ83PZI=
+
+Name: assets/www/content/web/Employees/6.jpg
+SHA1-Digest: D9ivzdaHQO0hI1PHRUbwh+DrAZc=
+
+Name: assets/www/content/web/foods/32.jpg
+SHA1-Digest: 1pYAS1j3h3ClVy67ubn7hjj3RLw=
+
+Name: res/drawable-xxhdpi/splash.png
+SHA1-Digest: 4+LL92rb3Bw+7GogRht+sDgqotA=
+
+Name: assets/www/navbar/appearance.html
+SHA1-Digest: al15oSWCRkf9HsaqGBd/4ZfFpwI=
+
+Name: res/drawable/icon.png
+SHA1-Digest: zvchM8fEDL7c1JhUfpS+Fyi1tm8=
+
+Name: assets/www/content/web/foods/80.jpg
+SHA1-Digest: K9VNE0EwEK1Oucwwa62/lisHHh4=
+
+Name: assets/www/content/web/foods/8.jpg
+SHA1-Digest: O26OUqRn+o/gHnHc9hXvTnIRiIo=
+
+Name: assets/www/content/shared/styles/themebuilder.png
+SHA1-Digest: X5yQ8NzTGG9flQXB2ZOs9DUUTko=
+
+Name: assets/www/content/spa/aeroviewr/images/texture-darker.png
+SHA1-Digest: tfZk+0qVV5LSSS6nvPFzeZMU6nE=
+
+Name: assets/www/content/shared/images/patterns/pattern3.png
+SHA1-Digest: sukPKbAqzhsyjFifIHC8Pp0sSqs=
+
+Name: assets/www/content/mobile/overview/eduardo.jpg
+SHA1-Digest: ukzXZG2ARGT6MYvUelNQDj/ig/Y=
+
+Name: assets/www/styles/Default/editor.png
+SHA1-Digest: DjUYBFydrqIBJ2jzejYUP5u7NuA=
+
+Name: assets/www/content/mobilethemebuilder/images/ann.jpg
+SHA1-Digest: asdMyNETwszTjZiGJNsCZGjO17c=
+
+Name: res/drawable-hdpi/splash.png
+SHA1-Digest: GEIoB4bb0A4jeVKlP+EvZnCn0Ak=
+
+Name: assets/www/content/spa/websushi/images/200/shake.jpg
+SHA1-Digest: 6we72DHENPGKehD4EuBW3nctU1A=
+
+Name: assets/www/listview/editing.html
+SHA1-Digest: 3r+LL+U+yg62Jd0RQsCxCTmftx4=
+
+Name: assets/www/content/mobile/cities/220/nice.jpg
+SHA1-Digest: /0A8n7JzWWjpMRzBmnqu2uxYnA4=
+
+Name: assets/www/styles/images/back.png
+SHA1-Digest: GVVNFVbFZXkhokOG1057Cy4Vf6Q=
+
+Name: assets/www/content/shared/styles/fonts/Roboto-LightWeb.woff
+SHA1-Digest: rf6Yfgjz7j2U34ppTH1E6QWz3Yw=
+
+Name: assets/www/content/shared/images/photos/10.jpg
+SHA1-Digest: k54kK1QAM6zDl1IrYfOYwAttF6A=
+
+Name: assets/www/content/spa/websushi/images/75/tori-katsu.jpg
+SHA1-Digest: VP3fEQ67dUBp5iwqri21tsakV0Y=
+
+Name: assets/www/content/mobilethemebuilder/images/iconmasks.svg
+SHA1-Digest: naY8dVvi4Nb3EpWUAVH7/j/48h4=
+
+Name: assets/www/content/web/foods/39.jpg
+SHA1-Digest: MmBrho3tgrUwcr3kNYzuuPXcy1U=
+
+Name: assets/www/content/mobile/application/music-store.html
+SHA1-Digest: Kmw9xyflBtYxXw35me+uH/FNruE=
+
+Name: assets/www/content/web/foods/63.jpg
+SHA1-Digest: yjqvF49qWplJIEWBoinvAw91wXo=
+
+Name: assets/www/styles/textures/glass-lighter.png
+SHA1-Digest: 6vqPjw9XG+MzqilfShVGblKcnD0=
+
+Name: assets/www/content/mobile/overview/sydney.jpg
+SHA1-Digest: 3m6F4b5/E5jxQ16OtYJAnEFuSkA=
+
+Name: assets/www/content/web/foods/38.jpg
+SHA1-Digest: zQlPDr60jkzULCJVcP0VUy+mfNQ=
+
+Name: assets/www/content/shared/styles/telerik-footer-social-icons.png
+SHA1-Digest: zZfqcxkQz0JcnrqILY0oahP5dXk=
+
+Name: assets/www/content/web/foods/7.jpg
+SHA1-Digest: Yx/t5HtPzrhMi25kf6jnA1mtv20=
+
+Name: assets/www/content/mobile/listview/edamame.jpg
+SHA1-Digest: Ln2SC3EnZrb6ZApRMWwcRCkSZUI=
+
+Name: assets/www/content/web/foods/73.jpg
+SHA1-Digest: fZxHKpWOwIalcMxx1LQniLJ/Eps=
+
+Name: assets/www/content/spa/aeroviewr/js/aeroviewr.js
+SHA1-Digest: +KtSdX4kcJctIFz1YQ9E0ms4NlA=
+
+Name: assets/www/content/web/Employees/3.jpg
+SHA1-Digest: CkepmJx62RNWDwb8tkww8tTR8I0=
+
+Name: assets/www/content/web/foods/24.jpg
+SHA1-Digest: 8e1/oQPXYzFZ3A0OJ9EN7zXaPTg=
+
+Name: assets/www/content/mobile/overview/francisco.jpg
+SHA1-Digest: B2yDA8FmpO5I0JROOtdASaG7/VY=
+
+Name: assets/www/content/spa/websushi/images/75/sashimi-salad.jpg
+SHA1-Digest: NQLKTkf6VUUFrhKRuWFlNXThAho=
+
+Name: assets/www/styles/textures/brushed-metal.png
+SHA1-Digest: 5cYZX+WoxEQXnjLqRSH6Tt2VTvQ=
+
+Name: assets/www/content/spa/websushi/images/200/seattle-rolls.jpg
+SHA1-Digest: 2wqCwrv5iP0b4sK+/ma5HxqAqZ4=
+
+Name: assets/www/switch/mvvm.html
+SHA1-Digest: 3gqN1s6A4mgZ2eoXGLaero8KtbI=
+
+Name: assets/www/content/web/foods/43.jpg
+SHA1-Digest: KoI0h2AJgACIsOK3cP2liBTmJew=
+
+Name: assets/www/content/shared/icons/16/video.png
+SHA1-Digest: JsUb4jkbhqVPB95bDH7tHXorw8Q=
+
+Name: assets/www/content/spa/aeroviewr/js/500px.js
+SHA1-Digest: YHYzlmMnA/91FUKg2AGC0diHgEk=
+
+Name: assets/www/content/shared/styles/hand-ipad.png
+SHA1-Digest: s6V80ZaoUe2kHtqomycQ7xlhTKw=
+
+Name: assets/www/content/web/foods/26.jpg
+SHA1-Digest: mhMugvaWpY2CNULBwq02yiY935w=
+
+Name: assets/www/content/spa/aeroviewr/images/splash.png
+SHA1-Digest: /CJvWyPZI3zOBY3+mjhEC9fksfY=
+
+Name: assets/www/content/web/foods/75.jpg
+SHA1-Digest: o2uJ4uCasb9Fpe4Jp+P6vCL1MwI=
+
+Name: assets/www/scroller/index.html
+SHA1-Digest: NgeZkY5tmIQ/288uHkFWrjKqFJg=
+
+Name: assets/www/content/mobilethemebuilder/images/meego.png
+SHA1-Digest: RNPhYyHBesCg0NdE8F0+336oA1k=
+
+Name: assets/www/styles/Default/loading.gif
+SHA1-Digest: rvr5ZtGIUgdyU7CSIBABiaxyNlk=
+
+Name: assets/www/content/spa/websushi/images/200/yaki-udon.jpg
+SHA1-Digest: VqOwNS58/djy6setDuaS67INpkY=
+
+Name: assets/www/content/web/foods/200/11.jpg
+SHA1-Digest: 38CZ1MdGAJkdeeaAnwFWp5IvDK0=
+
+Name: assets/www/styles/textures/dots2.png
+SHA1-Digest: bFk2Q2iA868fa4CnQralmLyCfag=
+
+Name: assets/www/content/shared/styles/fonts/DroidSansWeb.svg
+SHA1-Digest: C9j23HFQZ89EHVY+nWmxnORvNbY=
+
+Name: assets/www/content/mobile/cities/220/london.jpg
+SHA1-Digest: rXHfPPAPhjfP4uHBNlGuAAmod0w=
+
+Name: assets/www/content/shared/styles/playbook.png
+SHA1-Digest: uZLW9nLh0QejjmjB3aVE2Y2C63Y=
+
+Name: assets/www/content/web/foods/54.jpg
+SHA1-Digest: u5zYzS6mcXFbxQTfB5T7ayxt6Ts=
+
+Name: assets/www/content/shared/images/themebuilder-dataviz-logo.png
+SHA1-Digest: QOGF+ciEkbeomiq3N6/QMH7l/oM=
+
+Name: assets/www/content/mobile/shared/sports-facility.jpg
+SHA1-Digest: tAEZVwT1RX1hqGwbuD+6aYKumNA=
+
+Name: assets/www/styles/images/kendoui.woff
+SHA1-Digest: yVdnBkcT1Jjy9OB6uS26QwfnvAw=
+
+Name: assets/www/content/mobile/shared/player.jpg
+SHA1-Digest: FiKIiO8pfnidRa1ZIxgrkhIW0BA=
+
+Name: assets/www/content/mobile/cities/220/cairo.jpg
+SHA1-Digest: 3ny51WtrB8Bgw2GpP6QXH59nFYU=
+
+Name: assets/www/content/web/foods/13.jpg
+SHA1-Digest: q/Mo+lHr180YoG0uDWLSlMd1Zjo=
+
+Name: assets/www/content/mobile/shared/sports.jpg
+SHA1-Digest: 2is4/ETOZHSkD61VeEdcNa5Ts4o=
+
+Name: assets/www/content/mobile/overview/san-francisco.jpg
+SHA1-Digest: xepJ+zaXL1TkuUEfVA3+ksTr9SQ=
+
+Name: assets/www/drawer/index.html
+SHA1-Digest: ldftKvZL8wD1t8SOhTsjcz7HtBE=
+
+Name: assets/www/content/mobile/cities/220/paris.jpg
+SHA1-Digest: hs9uUZNCvu5mx1QzS1bkK0QbxX8=
+
+Name: assets/www/content/shared/styles/aeroviewr.png
+SHA1-Digest: cZ2fooe79uhlJUlNJTbI+tucne8=
+
+Name: assets/www/content/mobilethemebuilder/scripts/hslpicker.js
+SHA1-Digest: SvkbOEFsVBH/ZtLTRywyeaAXM3M=
+
+Name: assets/www/content/shared/images/separator-shadow.jpg
+SHA1-Digest: E+yCd0GB5+AhT3bSdHPKvmlizFs=
+
+Name: assets/www/content/shared/images/photos/13.jpg
+SHA1-Digest: mPIna1XIYsjGlozbYgGeisPdsfI=
+
+Name: assets/www/button/index.html
+SHA1-Digest: sxPQQP3iDKQvQ2K42daJ54hnf0w=
+
+Name: assets/www/content/web/foods/15.jpg
+SHA1-Digest: VisJVlIgxoHsvTQGNDoNBLi6Tdc=
+
+Name: assets/www/content/web/Employees/4.jpg
+SHA1-Digest: nChHw3T6X3NmezuK4qhV8j7BunU=
+
+Name: assets/www/content/web/foods/19.jpg
+SHA1-Digest: XLKQi9dvv67odstx/d3mXF8Ak84=
+
+Name: assets/www/content/mobilethemebuilder/scripts/gradientengine.js
+SHA1-Digest: TrwkGMYpCQq5qrcn69q7SFRo45E=
+
+Name: assets/www/content/mobilethemebuilder/images/christina.jpg
+SHA1-Digest: IxmJVXen556OaAn6Q43zxuu4Zqg=
+
